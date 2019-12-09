@@ -1,0 +1,36 @@
+{
+  "name": "stayawake.js",
+  "version": "1.0.1",
+  "description": "StayAwake.js | Prevents mobile browsers from sleeping and shutting down",
+  "main": "stayawake.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesbachini/stayawake.js.git"
+  },
+  "keywords": [
+    "nosleep",
+    "sleep",
+    "awake",
+    "mobile",
+    "browser",
+    "shutdown",
+    "mobile",
+    "prevent",
+    "wakelock",
+    "prevent",
+    "shutdown",
+    "screen",
+    "off",
+    "keep",
+    "on"
+  ],
+  "author": "James Bachini",
+  "license": "GNU GPL3",
+  "bugs": {
+    "url": "https://github.com/jamesbachini/StayAwake.js/issues"
+  },
+  "homepage": "https://github.com/jamesbachini/StayAwake.js#readme"
+}
