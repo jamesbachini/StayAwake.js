@@ -1,6 +1,6 @@
 {
   "name": "stayawake.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "StayAwake.js | Prevents mobile browsers from sleeping and shutting down",
   "main": "stayawake.js",
   "scripts": {
