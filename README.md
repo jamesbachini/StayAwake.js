@@ -1,5 +1,7 @@
 # Stay Awake | StayAwake.js
 
+![StayAwake.js](https://jamesbachini.com/wp-content/uploads/2019/12/stayawake.png)
+
 Prevents mobile browsers from shutting down and the screen turning off after a set period.
 
 Plays a silent, hidden webm/mp4 video on repeat to keep the browser window open and active. 
