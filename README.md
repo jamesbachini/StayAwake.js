@@ -10,11 +10,19 @@ Original code: https://github.com/richtr/NoSleep.js and: https://github.com/made
 
 # Usage
 
-The module must first be imported in to the framework before being initiated. Once this is complete the video can be started and stopped enabling and disabling the no sleep functionality.
+The module must first be installed and imported in to the framework before being initiated. Once this is complete the video can be started and stopped enabling and disabling the no sleep functionality.
+
+## Install
+
+From command line:
+
+    npm install --save stayawake.js
+
+Install the stayawake.js module via the npm package manager
 
 ## Import
 
-    import StayAwake from './stayawake.js';
+    import StayAwake from 'stayawake.js';
 
 Import the module into framework
 
