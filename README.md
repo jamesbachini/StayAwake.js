@@ -6,9 +6,9 @@ Prevents mobile browsers from shutting down and the screen turning off after a s
 
 Plays a silent, hidden webm/mp4 video on repeat to keep the browser window open and active. 
 
-Original code: https://github.com/richtr/NoSleep.js and: https://github.com/madeInLagny/mil-no-sleep/
-
 * Adapted and simplified for Vue.js and other modern frameworks with module import functionality
+
+Original code combined: https://github.com/richtr/NoSleep.js and: https://github.com/madeInLagny/mil-no-sleep/
 
 # Usage
 
