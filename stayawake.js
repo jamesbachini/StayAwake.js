@@ -46,7 +46,7 @@ const stayAwakeModule = {
 				this.stayAwakeVideo.setAttribute('loop', '');
 			} else {
 				// mp4 source
-				this.stayAwakeVideo.addEventListener('timeupdate', function() {
+				this.stayAwakeVideo.addEventListener('timeupdate', () => {
 					if (this.stayAwakeVideo.currentTime > 0.5) {
 						this.stayAwakeVideo.currentTime = Math.random();
 					}
