@@ -36,6 +36,7 @@ const stayAwakeModule = {
 			this.stayAwakeVideo.setAttribute('visibilitychange', 'webkitvisibilitychange');
     }
 		this.stayAwakeVideo.setAttribute('muted', true);
+		this.stayAwakeVideo.muted = true;
 		this.stayAwakeVideo.setAttribute('title', 'StayAwake');
 		this.stayAwakeVideo.setAttribute('playsinline', '');
 		this.addSourceToVideo(this.stayAwakeVideo, 'webm', this.webm);
